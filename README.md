@@ -9,7 +9,7 @@ I'm a passionate and curious Web Development Learner at NavGurukul, driven by cr
 📫 How to reach me: akash24@navgurukul.org & akashhaldar95403@gmail.com<br>
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_akash37)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([https://www.instagram.com/_akash37](https://www.instagram.com/_akash37?igsh=MXZsd2d5eW1qNHE5Nw==))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-haldar-634a842bb)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akash24@navgurukul.org)
 
