@@ -1,3 +1,5 @@
+![Profile Views](https://komarev.com/ghpvc/?username=Akash0037&color=blue)
+
 # 💫 About Me:
 🚀 About Me<br>
 I'm a passionate and curious Web Development Learner at NavGurukul, driven by creativity and problem-solving. I enjoy building real-world web applications and continuously improving my skills by working on practical projects and challenges.<br><br>
